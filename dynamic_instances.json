@@ -1,5 +1,6 @@
 {
     "piped": [
+        "https://piped.wireway.ch",
         "https://api.piped.private.coffee",
         "https://cal1.piapi.ggtyler.dev",
         "https://pol1.piapi.ggtyler.dev",
@@ -13,7 +14,9 @@
         "https://pipedapi.ducks.party"
     ],
     "invidious": [
-        "https://invidious.f5.si"
+        "https://invidious.f5.si",
+        "https://lekker.gay",
+        "https://yt.omada.cafe"
     ],
     "hyperpipe": [
         "https://hyperpipeapi.onrender.com",

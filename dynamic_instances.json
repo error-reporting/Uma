@@ -14,7 +14,6 @@
     ],
     "invidious": [
         "https://lekker.gay",
-        "https://invidious.nikkosphere.com",
         "https://yt.omada.cafe"
     ],
     "hyperpipe": [
@@ -26,6 +25,6 @@
         "https://pol1.hpapi.ggtyler.dev",
         "https://hyperpipebackend.in.projectsegfau.lt"
     ],
-    "jiosaavn": "https://jiosavan-ytify.vercel.app",
+    "jiosaavn": "https://jiosaavn-api-ashen.vercel.app",
     "health": "P"
 }

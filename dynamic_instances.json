@@ -11,7 +11,8 @@
     ],
     "hls": [],
     "proxy": [
-        "https://pipedapi.ducks.party"
+        "https://pipedapi.ducks.party",
+        "https://piped-nextgen.xn--17b.net"
     ],
     "invidious": [
         "https://invidious.f5.si",

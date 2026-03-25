@@ -1,12 +1,6 @@
 {
     "piped": [
         "https://pipedapi.adminforge.de",
-        "https://piped.api.nuv3d-7iaaa-aaaan-qahma-cai.ic0.app",
-        "https://pipedapi.nuv3d-7iaaa-aaaan-qahma-cai.ic0.app",
-        "https://piped.nuv3d-7iaaa-aaaan-qahma-cai.ic0.app",
-        "https://api.nuv3d-7iaaa-aaaan-qahma-cai.ic0.app",
-        "https://api.piped.nuv3d-7iaaa-aaaan-qahma-cai.ic0.app",
-        "https://nuv3d-7iaaa-aaaan-qahma-cai.ic0.app",
         "https://pipedapi.wireway.ch",
         "https://piped.wireway.ch",
         "https://api.piped.private.coffee"
@@ -14,7 +8,8 @@
     "hls": [],
     "proxy": [
         "https://pipedapi.ducks.party",
-        "https://piped-nextgen.xn--17b.net"
+        "https://piped-nextgen.xn--17b.net",
+        "https://nuv3d-7iaaa-aaaan-qahma-cai.ic0.app"
     ],
     "invidious": [
         "https://invidious.f5.si",

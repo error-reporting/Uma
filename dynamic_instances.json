@@ -21,7 +21,8 @@
         "https://yt.omada.cafe"
     ],
     "hyperpipe": [
-        "https://hyperpipeapi.onrender.com"
+        "https://hyperpipeapi.onrender.com",
+        "https://hyperpipe.surge.sh"
     ],
     "jiosaavn": "https://jiosaavn-api-ashen.vercel.app",
     "health": "P"

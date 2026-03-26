@@ -9,6 +9,7 @@
     ],
     "hls": [],
     "proxy": [
+        "https://proxy.piped.private.coffee",
         "https://pipedapi.ducks.party",
         "https://piped-nextgen.xn--17b.net",
         "https://nuv3d-7iaaa-aaaan-qahma-cai.ic0.app"

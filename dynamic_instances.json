@@ -21,13 +21,7 @@
         "https://yt.omada.cafe"
     ],
     "hyperpipe": [
-        "https://hyperpipeapi.onrender.com",
-        "https://hyperpipeapi.darkness.services",
-        "https://cal1.hpapi.ggtyler.dev",
-        "https://nyc1.hpapi.ggtyler.dev",
-        "https://hyperpipeapi.ducks.party",
-        "https://pol1.hpapi.ggtyler.dev",
-        "https://hyperpipebackend.in.projectsegfau.lt"
+        "hyperpipe.surge.sh"
     ],
     "jiosaavn": "https://jiosaavn-api-ashen.vercel.app",
     "health": "P"
